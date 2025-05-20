@@ -1,1 +1,1 @@
-https://predictive-analytics-7lr2jfnrpyxcx26gn7gjqf.streamlit.app/
+ App link: https://predictive-analytics-7lr2jfnrpyxcx26gn7gjqf.streamlit.app/
